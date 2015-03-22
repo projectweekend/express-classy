@@ -1,0 +1,24 @@
+{
+  "name": "express-classy",
+  "version": "1.0.0",
+  "description": "A set of classy route handlers",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/projectweekend/express-classy.git"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "eventemitter"
+  ],
+  "author": "Brian Hines",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/projectweekend/express-classy/issues"
+  },
+  "homepage": "https://github.com/projectweekend/express-classy"
+}
