@@ -56,7 +56,7 @@ var router = express.Router();
 var AddPerson = require( "./add_person" );
 
 
-var addPerson = new user.AddPerson();
+var addPerson = new AddPerson();
 router.post( "/person", function ( req, res, next ) {
     addPerson.handle( req, res, next );
 } );
